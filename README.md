@@ -1,2 +1,3 @@
 # test-LAS
 starý LAS a jeho kódy
+Bylo nebylo jedno království, ve kterém uměli všichni programovat a nedělali nic jiného, než že seděli u počítače... 
